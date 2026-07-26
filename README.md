@@ -261,4 +261,4 @@ decentralized-voting-system/
 
 ##  License
 
-This project was developed as part of an academic program at ENSIA. Feel free to use, adapt, and build upon it for educational purposes.
+This project was developed as part of the ENSIA Artificial Intelligence Engineering curriculum. It is shared for educational and portfolio purposes.
