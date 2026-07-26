@@ -1,17 +1,18 @@
-#  Decentralized Voting System - Blockchain-Based Election Platform
+#  Blockchain-Based Decentralized Voting System
 
-> A secure, transparent, and tamper-proof voting platform built on Ethereum using smart contracts, React, and MetaMask.
-
+> A blockchain-powered decentralized voting platform developed using Solidity, React, Ethereum, and MetaMask. The application enables secure, transparent, and tamper-resistant elections through smart contracts while ensuring vote integrity and preventing double voting.
 ---
 
-##  Team Members
+## 👥 Team Members
 
-| Name |
-|---|
-| **Dhikra Maram LATRECHE** |
-| **Maroua BOUZIRA** |
-| **Hana SAADI** |
-| **Hanane BOUBENIDER** |
+This project was developed collaboratively by:
+
+- Hanane Boubenider
+- Dhikra Maram Latreche
+- Hana Saadi
+- Maroua Bouzira
+
+Artificial Intelligence Engineering Students – ENSIA
 
 ---
 
